@@ -9,7 +9,7 @@
 
 - ℹ️ [My Website](https://www.dccompsci.com)
 - 🔭 I’m currently working on a project to try and predict glucose results for Type 1 Diabetics
-- 🌱 I’m currently learning JS, React-Native, Python
+- 🌱 I’m currently learning JS, React-Native and Python
 - 📫 How to reach me:
 
   ![Twitter](https://img.shields.io/twitter/follow/dccompsci?style=social)
