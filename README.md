@@ -1,6 +1,5 @@
 ### Hi there 👋👋👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dave-t-c&count_private=true&show_icons=true&include_all_commits=true)
-![Octocat](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-t-c&count_private=true&show_icons=true)
 
