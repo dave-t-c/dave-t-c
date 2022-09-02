@@ -1,21 +1,27 @@
-### Hi there 👋👋👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dave-t-c&count_private=true&show_icons=true&include_all_commits=true)
+<h1 align="left">Hi 👋, I'm David</h1>
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-t-c&count_private=true&show_icons=true)
+<h3>🔭 I’m currently working on:</h3>
 
-#### Featured Repos:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dave-t-c&repo=Extensible-Clustering)](https://github.com/anuraghazra/github-readme-stats)
-&ensp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dave-t-c&repo=TfGM-API-Wrapper)](https://github.com/anuraghazra/github-readme-stats)
-&ensp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dave-t-c&repo=TfGM-API-Wrapper-iOS)](https://github.com/anuraghazra/github-readme-stats)
+- [LiveTramsMCR](https://github.com/dave-t-c/LiveTramsMCR)
+- [LiveTramsMCR-API](https://github.com/dave-t-c/LiveTramsMCR-API)
+- [Extensible-Clustering](https://github.com/dave-t-c/Extensible-Clustering)
 
+🌱 I’m currently learning 
+- **SwiftUI, ASP.Net, Scala, Haskell**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/david-t-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-t-c" height="30" width="40" /></a>
+</p>
 
-<!--- ℹ️ [My Website](https://www.dccompsci.com)-->
-- 🔭 I’m currently working on a project to try and predict glucose results for Type 1 Diabetics
-- 🌱 I’m currently learning JS, React-Native and Python
-- 😄 Pronouns: he/him/his
-<!-- - 📫 How to reach me:
-  ![Twitter](https://img.shields.io/twitter/follow/dccompsci?style=social) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dave-t-c&show_icons=true&theme=dark&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="dave-t-c" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dave-t-c&show_icons=true&theme=dark&text_color=ffffff&bg_color=000000&locale=en" alt="dave-t-c" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dave-t-c&theme=dark" alt="dave-t-c" /></p>
+
+<p>Readme created using <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">GitHub Profile Readme Generator</a> by 
+<a href="https://github.com/rahuldkjain">Rahul Jain</a></p>
