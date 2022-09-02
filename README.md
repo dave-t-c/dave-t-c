@@ -6,7 +6,8 @@
 - [LiveTramsMCR-API](https://github.com/dave-t-c/LiveTramsMCR-API)
 - [Extensible-Clustering](https://github.com/dave-t-c/Extensible-Clustering)
 
-🌱 I’m currently learning 
+<h3>🌱 I’m currently learning:</h3> 
+
 - **SwiftUI, ASP.Net, Scala, Haskell**
 
 <h3 align="left">Connect with me:</h3>
