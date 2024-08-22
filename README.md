@@ -4,7 +4,6 @@
 
 - [LiveTramsMCR](https://github.com/dave-t-c/LiveTramsMCR)
 - [LiveTramsMCR-API](https://github.com/dave-t-c/LiveTramsMCR-API)
-- [Extensible-Clustering](https://github.com/dave-t-c/Extensible-Clustering)
 
 <h3>🌱 I’m currently learning:</h3> 
 
